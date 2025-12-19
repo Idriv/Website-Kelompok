@@ -1,4 +1,4 @@
 a = 2
 print(a)
 
-print("Kodingannnnnn")
+print("Eror lagi bangsat")
